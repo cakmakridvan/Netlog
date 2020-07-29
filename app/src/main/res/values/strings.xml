@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MobilTestCase</string>
+    <string name="txt_title">Berlin</string>
+    <string name="txt_subtitle">Adlershof</string>
+    <string name="txt_chat">Chat Fragment</string>
+    <string name="txt_profil">Profil Fragment</string>
+    <string name="txt_get">Get Fragment</string>
+    <string name="txt_note">Note Fragment</string>
+    <string name="txt_cikis">Çıkış Gümrük</string>
+    <string name="txt_yuk">Yük Tipi</string>
+    <string name="txt_yukleme">Yükleme Tipi</string>
+    <string name="txt_adedi">Yükleme Adeti</string>
+    <string name="txt_kilo">Yüklerin Kilosu</string>
+    <string name="txt_saat">Yükleme Saati</string>
+    <string name="txt_hacim">Hacim</string>
+</resources>
